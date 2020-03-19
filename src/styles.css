@@ -1,0 +1,86 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h3 {
+  margin: 0.5rem auto;
+}
+
+.block {
+  width: 15rem;
+}
+
+.folder {
+  background: #fff;
+  display: block;
+}
+
+.flex {
+  display: flex;
+  justify-content: flex-start;
+}
+
+i.root {
+  width: 2.4rem;
+  height: 2.4rem;
+  background-image: url(https://creazilla-store.fra1.digitaloceanspaces.com/vectors/3222/folder-icons-medium.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 7rem;
+  background-position: -2.2rem -4.6rem;
+  margin-right: 1rem;
+  margin-top: 2%;
+}
+
+i.folder.false {
+  width: 2.4rem;
+  height: 2.4rem;
+  background-image: url(https://creazilla-store.fra1.digitaloceanspaces.com/vectors/3222/folder-icons-medium.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 7rem;
+  background-position: -2.2rem -4.6rem;
+  margin-right: 1rem;
+  margin-top: 2%;
+}
+
+i.folder.true {
+  width: 2.4rem;
+  height: 2.4rem;
+  background-image: url(https://creazilla-store.fra1.digitaloceanspaces.com/vectors/3222/folder-icons-medium.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 7rem;
+  background-position: 0rem 0rem;
+  margin-right: 1rem;
+  margin-top: 2%;
+}
+
+i.file {
+  width: 2.5rem;
+  height: 2.4rem;
+  background-image: url(https://www.pngkey.com/png/detail/213-2134383_google-documents-google-docs-icon-png.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 5rem;
+  background-position: -1.3rem 0rem;
+  margin-right: 1rem;
+  margin-bottom: auto;
+}
+
+.level_0 {
+  margin-left: 0;
+}
+
+.level_1 {
+  margin-left: 2rem;
+}
+
+.level_2 {
+  margin-left: 4rem;
+}
+
+.level_3 {
+  margin-left: 6rem;
+}

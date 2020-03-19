@@ -1,0 +1,9 @@
+[
+  { "id": "1", "name": "root", "isLeaf": "false" },
+  { "id": "2", "name": "folder 1", "isLeaf": "false" },
+  { "id": "3", "name": "file 1 in folder 1", "isLeaf": "true" },
+  { "id": "4", "name": "folder 2", "isLeaf": "false" },
+  { "id": "5", "name": "folder 1 in folder 2", "isLeaf": "false" },
+  { "id": "6", "name": "file 1 folder 1 in folder 2", "isLeaf": "true" },
+  { "id": "7", "name": "file 2 folder 1 in folder 2", "isLeaf": "true" }
+]
